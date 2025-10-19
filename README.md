@@ -23,8 +23,8 @@ A simple Python web scraper that extracts headlines 📰 and images 🖼️ from
 🚀 How to Run in Google Colab
 	1.	Open Google Colab
 	2.	Create a new notebook
-	3.	Paste and run the code
-  4.	Enter the webpage URL when prompted 🌐
+	3.	Paste and run the code: https://colab.research.google.com/github/tara-hassanzadeh/web-scraping-tool/blob/main/Untitled29.ipynb
+    4.	Enter the webpage URL when prompted 🌐
 	5.	Headlines and image URLs will appear below the code cell 🖥️
 
 ⸻
